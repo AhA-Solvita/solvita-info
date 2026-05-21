@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://AhA-Solvita.github.io/solvita-info/sitemap.xml
