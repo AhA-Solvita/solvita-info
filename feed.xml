@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>S-info</title>
-    <link href="https://AhA-Solvita.github.io/solvita-info/feed.xml" rel="self" />
-    <link href="https://AhA-Solvita.github.io/solvita-info" />
+    <link href="https:// aha-solvita.github.io/solvita-info/feed.xml" rel="self" />
+    <link href="https:// aha-solvita.github.io/solvita-info" />
     <updated>2026-05-20T12:45:31+01:00</updated>
     <author>
         <name>ANNA</name>
     </author>
-    <id>https://AhA-Solvita.github.io/solvita-info</id>
+    <id>https:// aha-solvita.github.io/solvita-info</id>
 
     <entry>
         <title>Accounting </title>
         <author>
             <name>ANNA</name>
         </author>
-        <link href="https://AhA-Solvita.github.io/solvita-info/compliance.html"/>
-        <id>https://AhA-Solvita.github.io/solvita-info/compliance.html</id>
-        <media:content url="https://AhA-Solvita.github.io/solvita-info/media/posts/5/Bizd-copy.png" medium="image" />
+        <link href="https:// aha-solvita.github.io/solvita-info/compliance.html"/>
+        <id>https:// aha-solvita.github.io/solvita-info/compliance.html</id>
+        <media:content url="https:// aha-solvita.github.io/solvita-info/media/posts/5/Bizd-copy.png" medium="image" />
 
         <updated>2026-01-30T13:34:16+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://AhA-Solvita.github.io/solvita-info/media/posts/5/Bizd-copy.png" alt="" />
+                        <img src="https:// aha-solvita.github.io/solvita-info/media/posts/5/Bizd-copy.png" alt="" />
                     <p class="p1"><span class="s1">Accounting that brings clarity and continuity — accurate records, steady oversight and stability that keeps your entire structure in order.</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://AhA-Solvita.github.io/solvita-info/media/posts/5/Bizd-copy.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https:// aha-solvita.github.io/solvita-info/media/posts/5/Bizd-copy.png" class="type:primaryImage" alt="" /></p>
                 <p class="p1"><span class="s1">Accounting that brings clarity and continuity — accurate records, steady oversight and stability that keeps your entire structure in order.</span></p>
 
 <p class="p1"><strong><span class="s1">Bookkeeping &amp; Financial Records</span></strong></p>
@@ -98,21 +98,21 @@
         <author>
             <name>ANNA</name>
         </author>
-        <link href="https://AhA-Solvita.github.io/solvita-info/accounting.html"/>
-        <id>https://AhA-Solvita.github.io/solvita-info/accounting.html</id>
-        <media:content url="https://AhA-Solvita.github.io/solvita-info/media/posts/4/Bizd.png" medium="image" />
+        <link href="https:// aha-solvita.github.io/solvita-info/accounting.html"/>
+        <id>https:// aha-solvita.github.io/solvita-info/accounting.html</id>
+        <media:content url="https:// aha-solvita.github.io/solvita-info/media/posts/4/Bizd.png" medium="image" />
 
         <updated>2026-01-30T13:33:40+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://AhA-Solvita.github.io/solvita-info/media/posts/4/Bizd.png" alt="" />
+                        <img src="https:// aha-solvita.github.io/solvita-info/media/posts/4/Bizd.png" alt="" />
                     <p class="p1"><span class="s1">Compliance support that protects your operations — clear structure, aligned processes and steady regulatory support that keeps your business stable.</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://AhA-Solvita.github.io/solvita-info/media/posts/4/Bizd.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https:// aha-solvita.github.io/solvita-info/media/posts/4/Bizd.png" class="type:primaryImage" alt="" /></p>
                 <p class="p1"><span class="s1">Compliance support that protects your operations — clear structure, aligned processes and steady regulatory support that keeps your business stable.</span></p>
 
 <p class="p1"><strong><span class="s1">Scope of Work</span></strong></p>
@@ -204,21 +204,21 @@
         <author>
             <name>ANNA</name>
         </author>
-        <link href="https://AhA-Solvita.github.io/solvita-info/tax.html"/>
-        <id>https://AhA-Solvita.github.io/solvita-info/tax.html</id>
-        <media:content url="https://AhA-Solvita.github.io/solvita-info/media/posts/3/Bizc-copy.png" medium="image" />
+        <link href="https:// aha-solvita.github.io/solvita-info/tax.html"/>
+        <id>https:// aha-solvita.github.io/solvita-info/tax.html</id>
+        <media:content url="https:// aha-solvita.github.io/solvita-info/media/posts/3/Bizc-copy.png" medium="image" />
 
         <updated>2026-01-30T13:33:07+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://AhA-Solvita.github.io/solvita-info/media/posts/3/Bizc-copy.png" alt="" />
+                        <img src="https:// aha-solvita.github.io/solvita-info/media/posts/3/Bizc-copy.png" alt="" />
                     <p class="p1"><span class="s1">Tax support built around your decisions — clear guidance, precise planning and a </span>forward view that helps you make well‑informed, profitable choices.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://AhA-Solvita.github.io/solvita-info/media/posts/3/Bizc-copy.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https:// aha-solvita.github.io/solvita-info/media/posts/3/Bizc-copy.png" class="type:primaryImage" alt="" /></p>
                 <p class="p1"><span class="s1">Tax support built around your decisions — clear guidance, precise planning and a </span>forward view that helps you make well‑informed, profitable choices.</p>
 
 <p class="p1"><strong><span class="s1">Scope of Work</span></strong></p>
@@ -289,21 +289,21 @@
         <author>
             <name>ANNA</name>
         </author>
-        <link href="https://AhA-Solvita.github.io/solvita-info/legal-support.html"/>
-        <id>https://AhA-Solvita.github.io/solvita-info/legal-support.html</id>
-        <media:content url="https://AhA-Solvita.github.io/solvita-info/media/posts/2/Bizc.png" medium="image" />
+        <link href="https:// aha-solvita.github.io/solvita-info/legal-support.html"/>
+        <id>https:// aha-solvita.github.io/solvita-info/legal-support.html</id>
+        <media:content url="https:// aha-solvita.github.io/solvita-info/media/posts/2/Bizc.png" medium="image" />
 
         <updated>2026-01-30T13:32:27+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://AhA-Solvita.github.io/solvita-info/media/posts/2/Bizc.png" alt="" />
+                        <img src="https:// aha-solvita.github.io/solvita-info/media/posts/2/Bizc.png" alt="" />
                     <p class="p1"><span class="s1">Legal support that protects your position — clear agreements, precise drafting, and structured, effective preparation with consistent guidance at every stage.</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://AhA-Solvita.github.io/solvita-info/media/posts/2/Bizc.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https:// aha-solvita.github.io/solvita-info/media/posts/2/Bizc.png" class="type:primaryImage" alt="" /></p>
                 <p class="p1"><span class="s1">Legal support that protects your position — clear agreements, precise drafting, and structured, effective preparation with consistent guidance at every stage.</span></p>
 
 <p class="p1"><strong><span class="s1">Scope of Work</span></strong></p>
