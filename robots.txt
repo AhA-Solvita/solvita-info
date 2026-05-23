@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://aha-solvita.github.io/solvita-info/sitemap.xml
